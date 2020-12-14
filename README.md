@@ -21,20 +21,6 @@ This project requires Xcode 9 to run and compiles with swift 4
 CocoaPods:
 Add the following to your Podfile:
 
-```ruby
-pod 'ALCameraViewController'
-```
-> For swift 3.2 support
-
-```ruby
-pod 'ALCameraViewController', '~> 2.0.3'
-```
-
-Carthage:
-
-```ruby
-github "alexlittlejohn/ALCameraViewController"
-```
 
 
 ### Privacy (iOS 10) ###
