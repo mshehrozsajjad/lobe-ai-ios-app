@@ -1,4 +1,4 @@
-# Lobe.ai Sample IOS App with CoreML
+# Lobe.ai Sample iOS App with CoreML
 A sample app to test your trained model extracted from lobe.ai. Simply replace your model file and start building  and testing your app on your device or simulator. You can use images from both library and camera.
 
 
@@ -54,7 +54,7 @@ Just drag and drop your trained model SaveModel.mlmodel file generated from Lobe
 
 
 ### Credits
-ALCameraViewController was used a base for this project. This project is made to test out your model trained using Lobe.ai. Although you can try any other trained CoreML model too.
+[ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) was used a base for this project. This project is made to test out your model trained using Lobe.ai. Although you can try any other trained CoreML model too.
 
 ### Future Work
 In future I would like to load the model realtime and then publish this app to iOS so that removes the requirement to have XCode and make it fully code free experience.
