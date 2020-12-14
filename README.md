@@ -2,8 +2,8 @@
 A sample app to test your trained model extracted from lobe.ai. Simply replace your model file and start building  and testing your app on your device or simulator. You can use images from both library and camera.
 
 
-![Home Screen](https://github.com/mshehrozsajjad/lobe-ai-ios-app/blob/main/Example/image.png?raw=true)
-![Result](https://github.com/mshehrozsajjad/lobe-ai-ios-app/blob/main/Example/image.png?raw=true)
+![Home Screen](https://github.com/mshehrozsajjad/lobe-ai-ios-app/blob/main/Example/image1.png?raw=true)
+![Result](https://github.com/mshehrozsajjad/lobe-ai-ios-app/blob/main/Example/image2.png?raw=true)
 
 
 ### Features
